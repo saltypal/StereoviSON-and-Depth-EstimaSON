@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "camera_matrix": [
+    [
+      1000.0,
+      0.0,
+      499.5
+    ],
+    [
+      0.0,
+      1000.0,
+      349.5
+    ],
+    [
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "distortion_coefficients": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "image_size_wh": [
+    1000,
+    700
+  ],
+  "rms_reprojection_error_px": 0.0,
+  "usable_views": 15,
+  "quality_passed": true,
+  "metadata": {
+    "evidence_kind": "synthetic",
+    "description": "Invented ideal camera intrinsics for software validation; never use for physical photographs."
+  }
+}

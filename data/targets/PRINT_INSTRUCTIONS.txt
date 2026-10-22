@@ -1,0 +1,7 @@
+PRINT AT ACTUAL SIZE / 100%, not fit-to-page. These PNGs carry 254 DPI metadata.
+Marker: A4 portrait, black square 150 x 150 mm; keep surrounding white margin.
+Checkerboard: A4 landscape, 10 x 7 squares = 9 x 6 internal corners.
+Each checkerboard square should be 25 x 25 mm. Board is 250 x 175 mm.
+Measure the actual printed square width AND height with a ruler. Enter the measured square size.
+Printer/software may ignore DPI. Adjust print scale until dimensions match.
+Use flat matte paper on rigid backing. Do not bend or stretch either target.
